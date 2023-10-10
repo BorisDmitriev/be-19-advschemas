@@ -1,0 +1,24 @@
+{
+  "name": "be-19-advschemas-borisdmitriev",
+  "version": "1.0.0",
+  "description": "Create a small API that can handle database interactions, while practising advanced schema validation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-WD-22-D07/be-19-advschemas-BorisDmitriev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-WD-22-D07/be-19-advschemas-BorisDmitriev/issues"
+  },
+  "homepage": "https://github.com/FBW-WD-22-D07/be-19-advschemas-BorisDmitriev#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.3"
+  }
+}
